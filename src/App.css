@@ -1,0 +1,19 @@
+.curd-app{
+  
+  width: 100%;
+  border-collapse: collapse;
+}
+.curd-app tr{
+  text-align: center;
+}
+.curd-app tr:nth-child(even){
+  background: #ddd;
+}
+.curd-app td{
+  padding: 12px 0;
+}
+
+.curd-app th{
+  background-color: orangered;
+  color: white; padding: 18px 0;
+}
